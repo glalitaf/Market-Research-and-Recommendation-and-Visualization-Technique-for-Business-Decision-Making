@@ -8,3 +8,7 @@ Tujuan dari project ini mengolah data transaksi toko, memberikan insight dan men
 
 Data transaksi dari tahun 2013 sampai dengan 2019 dalam bentuk csv (comma separated value) dengan data_retail.csv dengan jumlah baris 100.000 baris data.
 Dataset dapat diperoleh pada <a href="https://storage.googleapis.com/dqlab-dataset/data_retail.csv">link</a> ini.
+
+
+## Data Cleansing, Transformation, and Visualization
+Untuk data cleansing, transformation, dan visualization dilakukan dengan menggunakan bahasa pemograman python dan dapat dilihat pada <a href="https://github.com/glalitaf/Market-Research-and-Recommendation-and-Visualization-Technique-for-Business-Decision-Making/blob/main/Data%20Analyst%20Project%20Business%20Decision%20Research%202.ipynb">LINK</a> ini.
